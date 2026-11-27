@@ -1,0 +1,6 @@
+fms
+*.exe
+*.out
+*.o
+demo*.txt
+_chmod_test.tmp
